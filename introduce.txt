@@ -1,0 +1,29 @@
+bài 15: Thực hành: Tạo các liên kết cho website
+
+<body>
+    <!--menu dạng hyperlink-->
+    <ul>
+        <li>
+        <a href="gioi_thieu.html">
+        <img src="images/back.png" alt="back-icon"/>
+        giới thiệu</a>
+        </li>
+        <li>
+        <a href="nguyên_lieu.html"> 
+        <img src="images/back.png" alt="back-icon"/>
+        nguyên liệu</a>
+        </li>
+        <li>
+        <a href="huong_dan.html">  
+        <img src="images/back.png" alt="back-icon"/>
+        hướng dẫn</a>
+        </li>
+        <li>
+        <a href="hinh_anh.html"> 
+        <img src="images/back.png" alt="back-icon"/>
+        hình ảnh</a>
+        </li>
+    </ul>
+    <!--nội dung-->
+    ...
+</body>
